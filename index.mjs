@@ -41,6 +41,10 @@ app.use("/uploads", express.static(path.join(__dirname, "uploads")));
 // Mount the items routes
 app.use("/api/items", itemsRoutes);
 
+app.get("/", (req, res) => {
+  res.send("server running");
+});
+
 app.listen(port, () => {
   console.log(`Server running on http://localhost:${port}`);
 });
