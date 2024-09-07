@@ -1,0 +1,34 @@
+[
+  {
+    "id": "1725714950823",
+    "name": "Laptop",
+    "price": "2000",
+    "category": "electronics",
+    "image": "/uploads/1725714949757-178173594.jpeg",
+    "selector": "for sale"
+  },
+  {
+    "id": "1725714972120",
+    "name": "Phone",
+    "price": "1000",
+    "category": "electronics",
+    "image": "/uploads/1725714971531-120014462.jpeg",
+    "selector": "for sale"
+  },
+  {
+    "id": "1725714989805",
+    "name": "T-shirt ",
+    "price": "20",
+    "category": "clothing",
+    "image": "/uploads/1725714988745-202280305.jpeg",
+    "selector": "for use"
+  },
+  {
+    "id": "1725715008567",
+    "name": "Chair",
+    "price": "56",
+    "category": "furniture",
+    "image": "/uploads/1725715006871-189674222.jpeg",
+    "selector": "for sale"
+  }
+]
